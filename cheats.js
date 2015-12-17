@@ -21,7 +21,7 @@ var lastName = "TwoShoes"
 var result = firstName + lastName;
 alert(result);
 
-// or (3) by looging to the HTML
+// or (3) by logging to the HTML
 
 function switcheroo(){
 document.getElementById("bowie").innerHTML = "CHANGES!"
